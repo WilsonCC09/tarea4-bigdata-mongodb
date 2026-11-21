@@ -1,0 +1,802 @@
+[
+  {
+    "producto_id": 1,
+    "nombre": "Laptop Gamer Pro",
+    "categoria": "Tecnología",
+    "precio": 3500000,
+    "stock": 45,
+    "activo": true
+  },
+  {
+    "producto_id": 2,
+    "nombre": "Mouse Inalámbrico RGB",
+    "categoria": "Tecnología",
+    "precio": 85000,
+    "stock": 120,
+    "activo": true
+  },
+  {
+    "producto_id": 3,
+    "nombre": "Teclado Mecánico",
+    "categoria": "Tecnología",
+    "precio": 220000,
+    "stock": 60,
+    "activo": true
+  },
+  {
+    "producto_id": 4,
+    "nombre": "Monitor 24 Pulgadas",
+    "categoria": "Tecnología",
+    "precio": 750000,
+    "stock": 30,
+    "activo": true
+  },
+  {
+    "producto_id": 5,
+    "nombre": "Silla Ergonómica de Oficina",
+    "categoria": "Hogar",
+    "precio": 550000,
+    "stock": 15,
+    "activo": true
+  },
+  {
+    "producto_id": 6,
+    "nombre": "Escritorio Minimalista",
+    "categoria": "Hogar",
+    "precio": 420000,
+    "stock": 20,
+    "activo": true
+  },
+  {
+    "producto_id": 7,
+    "nombre": "Audífonos Bluetooth",
+    "categoria": "Tecnología",
+    "precio": 180000,
+    "stock": 90,
+    "activo": true
+  },
+  {
+    "producto_id": 8,
+    "nombre": "Cafetera Automática",
+    "categoria": "Hogar",
+    "precio": 310000,
+    "stock": 25,
+    "activo": true
+  },
+  {
+    "producto_id": 9,
+    "nombre": "Smartphone Gama Media",
+    "categoria": "Tecnología",
+    "precio": 1200000,
+    "stock": 36,
+    "activo": true
+  },
+  {
+    "producto_id": 10,
+    "nombre": "Tablet 10 Pulgadas",
+    "categoria": "Tecnología",
+    "precio": 800000,
+    "stock": 14,
+    "activo": true
+  },
+  {
+    "producto_id": 11,
+    "nombre": "Impresora Multifuncional",
+    "categoria": "Tecnología",
+    "precio": 450000,
+    "stock": 78,
+    "activo": true
+  },
+  {
+    "producto_id": 12,
+    "nombre": "Disco Duro Externo 1TB",
+    "categoria": "Tecnología",
+    "precio": 260000,
+    "stock": 70,
+    "activo": true
+  },
+  {
+    "producto_id": 13,
+    "nombre": "Memoria USB 64GB",
+    "categoria": "Tecnología",
+    "precio": 35000,
+    "stock": 65,
+    "activo": true
+  },
+  {
+    "producto_id": 14,
+    "nombre": "Parlante Portátil Bluetooth",
+    "categoria": "Tecnología",
+    "precio": 150000,
+    "stock": 43,
+    "activo": true
+  },
+  {
+    "producto_id": 15,
+    "nombre": "Smartwatch Deportivo",
+    "categoria": "Tecnología",
+    "precio": 320000,
+    "stock": 34,
+    "activo": false
+  },
+  {
+    "producto_id": 16,
+    "nombre": "Cámara de Seguridad Wi-Fi",
+    "categoria": "Tecnología",
+    "precio": 210000,
+    "stock": 147,
+    "activo": true
+  },
+  {
+    "producto_id": 17,
+    "nombre": "Router Inalámbrico Dual Band",
+    "categoria": "Tecnología",
+    "precio": 180000,
+    "stock": 30,
+    "activo": true
+  },
+  {
+    "producto_id": 18,
+    "nombre": "Tarjeta Gráfica RTX",
+    "categoria": "Tecnología",
+    "precio": 2500000,
+    "stock": 116,
+    "activo": true
+  },
+  {
+    "producto_id": 19,
+    "nombre": "Procesador Core i9",
+    "categoria": "Tecnología",
+    "precio": 1900000,
+    "stock": 16,
+    "activo": true
+  },
+  {
+    "producto_id": 20,
+    "nombre": "Memoria RAM 16GB DDR4",
+    "categoria": "Tecnología",
+    "precio": 240000,
+    "stock": 15,
+    "activo": true
+  },
+  {
+    "producto_id": 21,
+    "nombre": "SSD NVMe 1TB",
+    "categoria": "Tecnología",
+    "precio": 340000,
+    "stock": 31,
+    "activo": true
+  },
+  {
+    "producto_id": 22,
+    "nombre": "Webcam Full HD 1080p",
+    "categoria": "Tecnología",
+    "precio": 130000,
+    "stock": 63,
+    "activo": true
+  },
+  {
+    "producto_id": 23,
+    "nombre": "Micrófono Condensador USB",
+    "categoria": "Tecnología",
+    "precio": 210000,
+    "stock": 67,
+    "activo": true
+  },
+  {
+    "producto_id": 24,
+    "nombre": "Base Refrigerante Laptop",
+    "categoria": "Tecnología",
+    "precio": 75000,
+    "stock": 137,
+    "activo": true
+  },
+  {
+    "producto_id": 25,
+    "nombre": "Hub USB-C Multipuerto",
+    "categoria": "Tecnología",
+    "precio": 95000,
+    "stock": 14,
+    "activo": true
+  },
+  {
+    "producto_id": 26,
+    "nombre": "Monitor Curvo 27 Pulgadas",
+    "categoria": "Tecnología",
+    "precio": 1150000,
+    "stock": 58,
+    "activo": true
+  },
+  {
+    "producto_id": 27,
+    "nombre": "Teclado Inalámbrico Compacto",
+    "categoria": "Tecnología",
+    "precio": 110000,
+    "stock": 147,
+    "activo": true
+  },
+  {
+    "producto_id": 28,
+    "nombre": "Mousepad Extendido XL",
+    "categoria": "Tecnología",
+    "precio": 45000,
+    "stock": 115,
+    "activo": true
+  },
+  {
+    "producto_id": 29,
+    "nombre": "Repetidor Wi-Fi",
+    "categoria": "Tecnología",
+    "precio": 85000,
+    "stock": 64,
+    "activo": true
+  },
+  {
+    "producto_id": 30,
+    "nombre": "Proyector Portátil LED",
+    "categoria": "Tecnología",
+    "precio": 490000,
+    "stock": 122,
+    "activo": false
+  },
+  {
+    "producto_id": 31,
+    "nombre": "Consola Retro Portátil",
+    "categoria": "Tecnología",
+    "precio": 190000,
+    "stock": 79,
+    "activo": true
+  },
+  {
+    "producto_id": 32,
+    "nombre": "Cargador Rápido 65W GaN",
+    "categoria": "Tecnología",
+    "precio": 120000,
+    "stock": 9,
+    "activo": true
+  },
+  {
+    "producto_id": 33,
+    "nombre": "Power Bank 20000mAh",
+    "categoria": "Tecnología",
+    "precio": 140000,
+    "stock": 48,
+    "activo": true
+  },
+  {
+    "producto_id": 34,
+    "nombre": "Soporte Articulado Monitor",
+    "categoria": "Tecnología",
+    "precio": 160000,
+    "stock": 116,
+    "activo": true
+  },
+  {
+    "producto_id": 35,
+    "nombre": "Cable HDMI 2.1 2m",
+    "categoria": "Tecnología",
+    "precio": 40000,
+    "stock": 95,
+    "activo": true
+  },
+  {
+    "producto_id": 36,
+    "nombre": "Lector de Tarjetas SD",
+    "categoria": "Tecnología",
+    "precio": 35000,
+    "stock": 79,
+    "activo": true
+  },
+  {
+    "producto_id": 37,
+    "nombre": "Audífonos Cancelación de Ruido",
+    "categoria": "Tecnología",
+    "precio": 620000,
+    "stock": 47,
+    "activo": true
+  },
+  {
+    "producto_id": 38,
+    "nombre": "Smartphone Gama Alta",
+    "categoria": "Tecnología",
+    "precio": 4200000,
+    "stock": 63,
+    "activo": true
+  },
+  {
+    "producto_id": 39,
+    "nombre": "Licuadora de Alta Potencia",
+    "categoria": "Hogar",
+    "precio": 190000,
+    "stock": 94,
+    "activo": true
+  },
+  {
+    "producto_id": 40,
+    "nombre": "Microondas Digital",
+    "categoria": "Hogar",
+    "precio": 480000,
+    "stock": 34,
+    "activo": true
+  },
+  {
+    "producto_id": 41,
+    "nombre": "Aspiradora Robot",
+    "categoria": "Hogar",
+    "precio": 780000,
+    "stock": 31,
+    "activo": true
+  },
+  {
+    "producto_id": 42,
+    "nombre": "Ventilador de Torre",
+    "categoria": "Hogar",
+    "precio": 160000,
+    "stock": 105,
+    "activo": true
+  },
+  {
+    "producto_id": 43,
+    "nombre": "Plancha a Vapor",
+    "categoria": "Hogar",
+    "precio": 95000,
+    "stock": 32,
+    "activo": true
+  },
+  {
+    "producto_id": 44,
+    "nombre": "Linterna LED Recargable",
+    "categoria": "Hogar",
+    "precio": 45000,
+    "stock": 99,
+    "activo": true
+  },
+  {
+    "producto_id": 45,
+    "nombre": "Freidora de Aire 5L",
+    "categoria": "Hogar",
+    "precio": 320000,
+    "stock": 96,
+    "activo": false
+  },
+  {
+    "producto_id": 46,
+    "nombre": "Batidora de Mano",
+    "categoria": "Hogar",
+    "precio": 110000,
+    "stock": 75,
+    "activo": true
+  },
+  {
+    "producto_id": 47,
+    "nombre": "Tostadora 2 Rebanadas",
+    "categoria": "Hogar",
+    "precio": 90000,
+    "stock": 19,
+    "activo": true
+  },
+  {
+    "producto_id": 48,
+    "nombre": "Hervidor Eléctrico Acero",
+    "categoria": "Hogar",
+    "precio": 105000,
+    "stock": 125,
+    "activo": true
+  },
+  {
+    "producto_id": 49,
+    "nombre": "Olla Arrocera Multiusos",
+    "categoria": "Hogar",
+    "precio": 145000,
+    "stock": 145,
+    "activo": true
+  },
+  {
+    "producto_id": 50,
+    "nombre": "Purificador de Aire",
+    "categoria": "Hogar",
+    "precio": 410000,
+    "stock": 39,
+    "activo": true
+  },
+  {
+    "producto_id": 51,
+    "nombre": "Humidificador Ultrasónico",
+    "categoria": "Hogar",
+    "precio": 125000,
+    "stock": 104,
+    "activo": true
+  },
+  {
+    "producto_id": 52,
+    "nombre": "Lámpara de Escritorio LED",
+    "categoria": "Hogar",
+    "precio": 70000,
+    "stock": 28,
+    "activo": true
+  },
+  {
+    "producto_id": 53,
+    "nombre": "Juego de Sábanas Queen",
+    "categoria": "Hogar",
+    "precio": 135000,
+    "stock": 149,
+    "activo": true
+  },
+  {
+    "producto_id": 54,
+    "nombre": "Almohada Viscoelástica",
+    "categoria": "Hogar",
+    "precio": 85000,
+    "stock": 83,
+    "activo": true
+  },
+  {
+    "producto_id": 55,
+    "nombre": "Organizador de Zapatos",
+    "categoria": "Hogar",
+    "precio": 95000,
+    "stock": 100,
+    "activo": true
+  },
+  {
+    "producto_id": 56,
+    "nombre": "Espejo de Cuerpo Entero",
+    "categoria": "Hogar",
+    "precio": 210000,
+    "stock": 57,
+    "activo": true
+  },
+  {
+    "producto_id": 57,
+    "nombre": "Set de Cuchillos de Cocina",
+    "categoria": "Hogar",
+    "precio": 140000,
+    "stock": 25,
+    "activo": true
+  },
+  {
+    "producto_id": 58,
+    "nombre": "Batería de Cocina Antiadherente",
+    "categoria": "Hogar",
+    "precio": 360000,
+    "stock": 19,
+    "activo": true
+  },
+  {
+    "producto_id": 59,
+    "nombre": "Termo Acero Inoxidable 1L",
+    "categoria": "Hogar",
+    "precio": 65000,
+    "stock": 66,
+    "activo": true
+  },
+  {
+    "producto_id": 60,
+    "nombre": "Reloj de Pared Moderno",
+    "categoria": "Hogar",
+    "precio": 55000,
+    "stock": 82,
+    "activo": false
+  },
+  {
+    "producto_id": 61,
+    "nombre": "Cortinas Blackout",
+    "categoria": "Hogar",
+    "precio": 150000,
+    "stock": 28,
+    "activo": true
+  },
+  {
+    "producto_id": 62,
+    "nombre": "Tapete Decorativo Sala",
+    "categoria": "Hogar",
+    "precio": 230000,
+    "stock": 67,
+    "activo": true
+  },
+  {
+    "producto_id": 63,
+    "nombre": "Dispensador Automático Jabón",
+    "categoria": "Hogar",
+    "precio": 60000,
+    "stock": 33,
+    "activo": true
+  },
+  {
+    "producto_id": 64,
+    "nombre": "Báscula Digital Corporal",
+    "categoria": "Hogar",
+    "precio": 75000,
+    "stock": 105,
+    "activo": true
+  },
+  {
+    "producto_id": 65,
+    "nombre": "Caja Organizadora Plegable",
+    "categoria": "Hogar",
+    "precio": 40000,
+    "stock": 79,
+    "activo": true
+  },
+  {
+    "producto_id": 66,
+    "nombre": "Cafetera Prensa Francesa",
+    "categoria": "Hogar",
+    "precio": 80000,
+    "stock": 124,
+    "activo": true
+  },
+  {
+    "producto_id": 67,
+    "nombre": "Exprimidor de Cítricos",
+    "categoria": "Hogar",
+    "precio": 95000,
+    "stock": 101,
+    "activo": true
+  },
+  {
+    "producto_id": 68,
+    "nombre": "Sartén Wok Antiadherente",
+    "categoria": "Hogar",
+    "precio": 115000,
+    "stock": 49,
+    "activo": true
+  },
+  {
+    "producto_id": 69,
+    "nombre": "Ventilador de Mesa",
+    "categoria": "Hogar",
+    "precio": 85000,
+    "stock": 102,
+    "activo": true
+  },
+  {
+    "producto_id": 70,
+    "nombre": "Estantería Metálica 5 Niveles",
+    "categoria": "Hogar",
+    "precio": 270000,
+    "stock": 98,
+    "activo": true
+  },
+  {
+    "producto_id": 71,
+    "nombre": "Kit de Destornilladores de Precisión",
+    "categoria": "Herramientas",
+    "precio": 65000,
+    "stock": 61,
+    "activo": true
+  },
+  {
+    "producto_id": 72,
+    "nombre": "Taladro Percutor Inalámbrico",
+    "categoria": "Herramientas",
+    "precio": 340000,
+    "stock": 76,
+    "activo": true
+  },
+  {
+    "producto_id": 73,
+    "nombre": "Caja de Herramientas Metálica",
+    "categoria": "Herramientas",
+    "precio": 120000,
+    "stock": 26,
+    "activo": true
+  },
+  {
+    "producto_id": 74,
+    "nombre": "Multímetro Digital",
+    "categoria": "Herramientas",
+    "precio": 85000,
+    "stock": 51,
+    "activo": true
+  },
+  {
+    "producto_id": 75,
+    "nombre": "Llave Inglesa Ajustable",
+    "categoria": "Herramientas",
+    "precio": 45000,
+    "stock": 144,
+    "activo": false
+  },
+  {
+    "producto_id": 76,
+    "nombre": "Juego de Llaves Mixtas 12pz",
+    "categoria": "Herramientas",
+    "precio": 110000,
+    "stock": 70,
+    "activo": true
+  },
+  {
+    "producto_id": 77,
+    "nombre": "Sierra Caladora Eléctrica",
+    "categoria": "Herramientas",
+    "precio": 280000,
+    "stock": 49,
+    "activo": true
+  },
+  {
+    "producto_id": 78,
+    "nombre": "Pulidora Angular 4.5 Pulgadas",
+    "categoria": "Herramientas",
+    "precio": 240000,
+    "stock": 126,
+    "activo": true
+  },
+  {
+    "producto_id": 79,
+    "nombre": "Nivel Láser Autonivelante",
+    "categoria": "Herramientas",
+    "precio": 310000,
+    "stock": 105,
+    "activo": true
+  },
+  {
+    "producto_id": 80,
+    "nombre": "Cinta Métrica 8m Magnética",
+    "categoria": "Herramientas",
+    "precio": 32000,
+    "stock": 77,
+    "activo": true
+  },
+  {
+    "producto_id": 81,
+    "nombre": "Pistola de Silicona Caliente",
+    "categoria": "Herramientas",
+    "precio": 40000,
+    "stock": 150,
+    "activo": true
+  },
+  {
+    "producto_id": 82,
+    "nombre": "Soldador Cautín 60W",
+    "categoria": "Herramientas",
+    "precio": 55000,
+    "stock": 64,
+    "activo": true
+  },
+  {
+    "producto_id": 83,
+    "nombre": "Juego de Brocas Mixtas",
+    "categoria": "Herramientas",
+    "precio": 75000,
+    "stock": 91,
+    "activo": true
+  },
+  {
+    "producto_id": 84,
+    "nombre": "Alicate Universal Aislado",
+    "categoria": "Herramientas",
+    "precio": 38000,
+    "stock": 22,
+    "activo": true
+  },
+  {
+    "producto_id": 85,
+    "nombre": "Martillo de Uña Mango Fibra",
+    "categoria": "Herramientas",
+    "precio": 42000,
+    "stock": 66,
+    "activo": true
+  },
+  {
+    "producto_id": 86,
+    "nombre": "Compresor de Aire Portátil",
+    "categoria": "Herramientas",
+    "precio": 290000,
+    "stock": 16,
+    "activo": true
+  },
+  {
+    "producto_id": 87,
+    "nombre": "Escalera Plegable Aluminio",
+    "categoria": "Herramientas",
+    "precio": 260000,
+    "stock": 88,
+    "activo": true
+  },
+  {
+    "producto_id": 88,
+    "nombre": "Linterna Frontal LED",
+    "categoria": "Herramientas",
+    "precio": 50000,
+    "stock": 110,
+    "activo": true
+  },
+  {
+    "producto_id": 89,
+    "nombre": "Gafas de Seguridad Transparentes",
+    "categoria": "Herramientas",
+    "precio": 22000,
+    "stock": 76,
+    "activo": true
+  },
+  {
+    "producto_id": 90,
+    "nombre": "Guantes de Trabajo Reforzados",
+    "categoria": "Herramientas",
+    "precio": 35000,
+    "stock": 24,
+    "activo": false
+  },
+  {
+    "producto_id": 91,
+    "nombre": "Prensa Sargento 12 Pulgadas",
+    "categoria": "Herramientas",
+    "precio": 48000,
+    "stock": 62,
+    "activo": true
+  },
+  {
+    "producto_id": 92,
+    "nombre": "Lijadora Orbital Eléctrica",
+    "categoria": "Herramientas",
+    "precio": 215000,
+    "stock": 88,
+    "activo": true
+  },
+  {
+    "producto_id": 93,
+    "nombre": "Pistola de Calor 2000W",
+    "categoria": "Herramientas",
+    "precio": 175000,
+    "stock": 62,
+    "activo": true
+  },
+  {
+    "producto_id": 94,
+    "nombre": "Cortatubos de Cobre",
+    "categoria": "Herramientas",
+    "precio": 52000,
+    "stock": 135,
+    "activo": true
+  },
+  {
+    "producto_id": 95,
+    "nombre": "Juego de Copas y Rache",
+    "categoria": "Herramientas",
+    "precio": 185000,
+    "stock": 109,
+    "activo": true
+  },
+  {
+    "producto_id": 96,
+    "nombre": "Detector de Voltaje Sin Contacto",
+    "categoria": "Herramientas",
+    "precio": 45000,
+    "stock": 125,
+    "activo": true
+  },
+  {
+    "producto_id": 97,
+    "nombre": "Cautín Tipo Pistola",
+    "categoria": "Herramientas",
+    "precio": 85000,
+    "stock": 44,
+    "activo": true
+  },
+  {
+    "producto_id": 98,
+    "nombre": "Tornillo de Banco 4 Pulgadas",
+    "categoria": "Herramientas",
+    "precio": 195000,
+    "stock": 75,
+    "activo": true
+  },
+  {
+    "producto_id": 99,
+    "nombre": "Flexómetro Digital",
+    "categoria": "Herramientas",
+    "precio": 95000,
+    "stock": 43,
+    "activo": true
+  },
+  {
+    "producto_id": 100,
+    "nombre": "Kit Reparación Celulares",
+    "categoria": "Herramientas",
+    "precio": 60000,
+    "stock": 71,
+    "activo": true
+  }
+]
